@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_margin="10dp"
+    tools:context=".SplashScreen">
+
+
+
+    <ImageView
+        android:id="@+id/om"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:srcCompat="@drawable/om"
+        android:layout_marginTop="100dp"/>
+
+    <ImageView
+        android:id="@+id/sdvmText"
+        android:layout_marginTop="75dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_sdvm" />
+
+    <ImageView
+        android:id="@+id/imageDeva"
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/dev"/>
+
+    <Button
+
+        android:id="@+id/namste"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/custom_bg"
+        android:text="🙏"
+        android:textSize="20dp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

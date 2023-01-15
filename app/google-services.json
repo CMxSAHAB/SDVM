@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186232135552",
+    "project_id": "sdvm-45a61",
+    "storage_bucket": "sdvm-45a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186232135552:android:a518c6c3597821ad8b6b65",
+        "android_client_info": {
+          "package_name": "com.example.sdvm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186232135552-p52tgn8caftjk4qq2ukjbhpo9b2rk0vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-b3JPsU4drO9Hrz2A1zaB0CIMfFXf-JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186232135552-p52tgn8caftjk4qq2ukjbhpo9b2rk0vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

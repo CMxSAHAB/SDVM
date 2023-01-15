@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/notice"
+        android:title="Notice"
+        android:icon="@drawable/ic_baseline_format_list_notice_24"/>
+    <item
+        android:id="@+id/gallery"
+        android:title="Gallery"
+        android:icon="@drawable/ic_baseline_gallery_24"/>
+    <item
+        android:id="@+id/aarti"
+        android:title="Aarti"
+        android:icon="@drawable/ic_baseline_doorbell_24"/>
+    <item
+        android:id="@+id/stotra"
+        android:title="Stotra"
+        android:icon="@drawable/ic_baseline_list_alt_24"/>
+    <item
+        android:id="@+id/whatsapp"
+        android:title="Whatsapp"
+        android:icon="@drawable/ic_baseline_phone_android_24"/>
+</menu>
